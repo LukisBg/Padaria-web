@@ -1,7 +1,7 @@
 # Padaria Cachoeiro
 
 ## 📌 Status do Projeto
-Em desenvolvimento
+Finalizado
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
